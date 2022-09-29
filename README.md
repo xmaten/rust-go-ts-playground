@@ -1,0 +1,1 @@
+Playground comparing same tasks in Rust, Golang and TypeScript.
